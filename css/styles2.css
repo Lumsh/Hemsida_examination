@@ -44,6 +44,7 @@
     display: grid;
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(16,100px);
+    column-gap: 5%;
    
     
     
@@ -551,9 +552,9 @@
     }
     
     .container__main--garbage{
-        margin-bottom: 2%;
+        margin-bottom: 10%;
         width: auto;
-        height: 30%;
+        height: 20%;
         
     }
 
